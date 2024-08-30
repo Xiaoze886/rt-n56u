@@ -151,7 +151,6 @@ dir_$(CONFIG_FIRMWARE_INCLUDE_ZEROTIER)	                       += zerotier
 dir_$(CONFIG_FIRMWARE_INCLUDE_WYY)						+= unblockmusic
 dir_$(OPENSSH_ENABLED)				+= openssh
 dir_$(DROPBEAR_ENABLED)				+= dropbear
-dir_$(CONFIG_FIRMWARE_INCLUDE_HTOP)		+= htop
 dir_$(CONFIG_FIRMWARE_INCLUDE_NANO)		+= nano
 dir_$(CONFIG_FIRMWARE_INCLUDE_OPENVPN)		+= openvpn
 dir_$(CONFIG_FIRMWARE_INCLUDE_SSWAN)		+= strongswan
